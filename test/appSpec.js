@@ -23,4 +23,3 @@ describe('app', function(){
         });
     });
 });
-
